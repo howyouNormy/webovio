@@ -1,7 +1,7 @@
 body {
     width: 100vh;
     height: 99vh;
-    background-image: url(/img/bac.png);
+    background-image: url(./bac.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
@@ -344,4 +344,5 @@ body.newbl {
     height: 40px;
     cursor: pointer;
     z-index: 1000;
+
 }
